@@ -1,1 +1,0 @@
-Se integro un diseño nuevo, y se corrigio un bug de interfaz.
